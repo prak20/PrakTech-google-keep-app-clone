@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Praktech-google-keep/static/css/main.c1c18ed8.chunk.css",
+    "main.js": "/Praktech-google-keep/static/js/main.2deb4de4.chunk.js",
+    "main.js.map": "/Praktech-google-keep/static/js/main.2deb4de4.chunk.js.map",
+    "runtime-main.js": "/Praktech-google-keep/static/js/runtime-main.03f2cd67.js",
+    "runtime-main.js.map": "/Praktech-google-keep/static/js/runtime-main.03f2cd67.js.map",
+    "static/js/2.96ca816f.chunk.js": "/Praktech-google-keep/static/js/2.96ca816f.chunk.js",
+    "static/js/2.96ca816f.chunk.js.map": "/Praktech-google-keep/static/js/2.96ca816f.chunk.js.map",
+    "index.html": "/Praktech-google-keep/index.html",
+    "precache-manifest.64d0460cdda4fce2a7478d341a940647.js": "/Praktech-google-keep/precache-manifest.64d0460cdda4fce2a7478d341a940647.js",
+    "service-worker.js": "/Praktech-google-keep/service-worker.js",
+    "static/css/main.c1c18ed8.chunk.css.map": "/Praktech-google-keep/static/css/main.c1c18ed8.chunk.css.map",
+    "static/js/2.96ca816f.chunk.js.LICENSE.txt": "/Praktech-google-keep/static/js/2.96ca816f.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/Praktech-google-keep/static/media/logo.c6b0d882.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03f2cd67.js",
+    "static/js/2.96ca816f.chunk.js",
+    "static/css/main.c1c18ed8.chunk.css",
+    "static/js/main.2deb4de4.chunk.js"
+  ]
+}
