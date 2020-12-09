@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <>
   <div className='header'>
-  <img src={logo} alt="logo" width='80' height='60'/><h1 style={{color: '#2B81E2',}}>PrakTech GoogleKeep </h1>
+  <img src={logo} alt="logo" width='80' height='60'/><h1 style={{color: 'rgb(185, 25, 25)',}}>PrakTech GoogleKeep </h1>
   </div>
   </>
 );
