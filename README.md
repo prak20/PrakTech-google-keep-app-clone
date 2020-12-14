@@ -1,5 +1,4 @@
-The Live Website is Hosted at [Google-Keep-App](https://prak20.github.io/Praktech-google-keep)
-
+The Live Website is Hosted at [Google-Keep-App](https://prak20.github.io/Praktech-google-keep).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
